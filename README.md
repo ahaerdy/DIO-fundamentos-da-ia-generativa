@@ -20,7 +20,7 @@ Ao longo das etapas, os alunos aplicaram esses conhecimentos por meio do **Azure
 
 ## 📚 Resumo dos Cursos
 
-### **Curso 01 – Fundamentos da IA Generativa**
+### **Curso 01 – Fundamentos da IA Generativa** ([link](https://github.com/ahaerdy/DIO-fundamentos-da-ia-generativa/tree/main/01-Curso-1-Conceitos_basicos_de_IA_Generativa-Agenda_do_curso#-v%C3%ADdeo-01---conceitos-b%C3%A1sicos-de-ia-generativa---agenda-do-curso))
 Abordou os fundamentos da IA generativa, incluindo:  
 - Funcionamento de grandes modelos de linguagem (tokenização, vetores e atenção).  
 - Uso do Azure OpenAI para criação de soluções inteligentes.  
