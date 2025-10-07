@@ -1,6 +1,6 @@
 # 📘 Integrando com Serviços de IA
 
-Este repositório reúne os apontamentos e entregas referentes ao **Curso – Integrando com Serviços de IA** do *Bootcamp Suzano Python Developer* da plataforma DIO.me. O conteúdo aborda conceitos, técnicas e aplicações práticas de Inteligência Artificial no ecossistema Microsoft Azure, contemplando desde fundamentos teóricos até experimentos aplicados em cenários reais.
+Este repositório reúne os apontamentos referentes ao **Curso – Integrando com Serviços de IA** do *Bootcamp Suzano Python Developer* da plataforma DIO.me. O conteúdo aborda conceitos, técnicas e aplicações práticas de Inteligência Artificial no ecossistema Microsoft Azure, contemplando desde fundamentos teóricos até experimentos aplicados em cenários reais.
 
 ---
 
