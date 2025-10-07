@@ -1,12 +1,12 @@
 # 📘 Integrando com Serviços de IA
 
-Este repositório reúne os apontamentos e entregas referentes ao **Módulo 5 – Integrando com Serviços de IA** do *Bootcamp Suzano Python Developer* da plataforma DIO.me. O conteúdo aborda conceitos, técnicas e aplicações práticas de Inteligência Artificial no ecossistema Microsoft Azure, contemplando desde fundamentos teóricos até experimentos aplicados em cenários reais.
+Este repositório reúne os apontamentos e entregas referentes ao **Curso – Integrando com Serviços de IA** do *Bootcamp Suzano Python Developer* da plataforma DIO.me. O conteúdo aborda conceitos, técnicas e aplicações práticas de Inteligência Artificial no ecossistema Microsoft Azure, contemplando desde fundamentos teóricos até experimentos aplicados em cenários reais.
 
 ---
 
 ## 🎯 Objetivo do Módulo
 
-O módulo proporcionou uma jornada completa pelo universo da Inteligência Artificial, guiando os participantes pela integração de serviços inteligentes em soluções reais. Foram explorados conceitos como IA generativa, aprendizado de máquina, processamento de linguagem natural, fala e tradução automática.
+O curso proporcionou uma jornada completa pelo universo da Inteligência Artificial, guiando os participantes pela integração de serviços inteligentes em soluções reais. Foram explorados conceitos como IA generativa, aprendizado de máquina, processamento de linguagem natural, fala e tradução automática.
 
 Ao longo das etapas, os alunos aplicaram esses conhecimentos por meio do **Azure Language Studio** e **Speech Studio**, desenvolvendo soluções como:
 - Análise de sentimentos em texto e áudio.
@@ -19,7 +19,7 @@ Ao longo das etapas, os alunos aplicaram esses conhecimentos por meio do **Azure
 
 ## 📚 Resumo dos Cursos
 
-### **Curso 01 – Fundamentos da IA Generativa**
+### **Parte 01 – Fundamentos da IA Generativa**
 [🔗 Acesse as anotações](https://github.com/ahaerdy/DIO-fundamentos-da-ia-generativa/tree/main/01-Curso-1-Conceitos_basicos_de_IA_Generativa-Agenda_do_curso#-v%C3%ADdeo-01---conceitos-b%C3%A1sicos-de-ia-generativa---agenda-do-curso)
 
 Abordou os fundamentos da IA generativa, incluindo:
@@ -31,7 +31,7 @@ Este curso demonstrou como a IA pode atuar como copiloto em aplicações prátic
 
 ---
 
-### **Curso 02 – Conceitos Fundamentais de IA**
+### **Parte 02 – Conceitos Fundamentais de IA**
 [🔗 Acesse as anotações](https://github.com/ahaerdy/DIO-fundamentos-da-ia-generativa/tree/main/02-Curso-2-Conceitos_Fundamentais_de_IA#-v%C3%ADdeo-01---apresenta%C3%A7%C3%A3o-do-curso-e-instrutora)
 
 Explorou conceitos básicos de IA no Microsoft Azure, focando em:
@@ -44,7 +44,7 @@ A abordagem integrou teoria e prática, reforçando a aplicação ética e segur
 
 ---
 
-### **Curso 03 – Fundamentos do Aprendizado de Máquina**
+### **Parte 03 – Fundamentos do Aprendizado de Máquina**
 [🔗 Acesse as anotações](https://github.com/ahaerdy/DIO-fundamentos-da-ia-generativa/tree/main/03-Curso-3-Fundamentos_do_Aprendizado_de_Maquina#-v%C3%ADdeo-01---tipos-de-aprendizado-de-m%C3%A1quina)
 
 Apresentou:
@@ -57,7 +57,7 @@ Esse conteúdo construiu a base técnica necessária para o uso avançado da IA.
 
 ---
 
-### **Curso 04 – Conceitos de Processamento de Linguagem Natural**
+### **Parte 04 – Conceitos de Processamento de Linguagem Natural**
 [🔗 Acesse as anotações](https://github.com/ahaerdy/DIO-fundamentos-da-ia-generativa/tree/main/04-Curso%204-Conceitos_de_Processamento_de_Linguagem_Natural#-v%C3%ADdeo-01---conceitos-de-processamento-de-linguagem-natural)
 
 Explorou PLN com foco em aplicações no Azure, incluindo:
@@ -71,7 +71,7 @@ Esse curso demonstrou como transformar dados textuais e de voz em inteligência 
 
 ---
 
-### **Curso 05 – Desafio Prático**
+### **Parte 05 – Desafio Prático**
 [🔗 Acesse as anotações](https://github.com/ahaerdy/DIO-fundamentos-da-ia-generativa/tree/main/05-Curso%205-Analise_de_Sentimentos_com_Language_Studio_no_Azure_AI#-v%C3%ADdeo-01---an%C3%A1lise-de-texto-e-resposta-a-perguntas)
 
 No desafio final, os participantes:
