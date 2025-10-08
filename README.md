@@ -4,7 +4,7 @@ Este repositório reúne os apontamentos referentes ao **Curso – Integrando co
 
 ---
 
-## 🎯 Objetivo do Módulo
+## 🎯 Objetivo do Curso
 
 O curso proporcionou uma jornada completa pelo universo da Inteligência Artificial, guiando os participantes pela integração de serviços inteligentes em soluções reais. Foram explorados conceitos como IA generativa, aprendizado de máquina, processamento de linguagem natural, fala e tradução automática.
 
