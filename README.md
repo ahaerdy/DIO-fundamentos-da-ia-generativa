@@ -4,7 +4,7 @@ Este repositório reúne os apontamentos referentes ao **Curso – Integrando co
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Objetivo do Curso
 
 O curso proporcionou uma jornada completa pelo universo da Inteligência Artificial, guiando os participantes pela integração de serviços inteligentes em soluções reais. Foram explorados conceitos como IA generativa, aprendizado de máquina, processamento de linguagem natural, fala e tradução automática.
 
@@ -17,7 +17,7 @@ Ao longo das etapas, os alunos aplicaram esses conhecimentos por meio do **Azure
 
 ---
 
-## 📚 Resumo dos Cursos
+## 📚 Resumos
 
 ### **Parte 01 – Fundamentos da IA Generativa**
 [🔗 Acesse as anotações](https://github.com/ahaerdy/DIO-fundamentos-da-ia-generativa/tree/main/01-Curso-1-Conceitos_basicos_de_IA_Generativa-Agenda_do_curso#-v%C3%ADdeo-01---conceitos-b%C3%A1sicos-de-ia-generativa---agenda-do-curso)
